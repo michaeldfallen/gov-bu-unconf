@@ -57,7 +57,7 @@ html {
   font-family: "nta", Arial, sans-serif;
   width: 100%;
   height: 100%;
-  font-size: 70px;
+  font-size: 150%;
 }
 
 body {
@@ -79,28 +79,28 @@ body {
 }
 
 h1 {
-  font-size: 150px;
+  font-size: 3em;
   font-weight: 900;
   width: 100%;
   text-align: center;
 }
 
 h2 {
-  font-size: 80px;
+  font-size: 2em;
   font-weight: 900;
   width: 100%;
   text-align: center;
 }
 
 h3 {
-  font-weight: 900;
+  font-weight: 2.2em;
   width: 100%;
   text-align: center;
 }
 
 .stream-name {
   display: block;
-  border-bottom: 10px solid rgb(35,157,46);
+  border-bottom: 0.2em solid rgb(35,157,46);
   width: 100%;
   text-align: center;
 }
